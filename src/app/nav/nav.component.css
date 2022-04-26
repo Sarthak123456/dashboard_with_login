@@ -1,0 +1,20 @@
+.nav-item > a > span{
+  color:black
+}
+
+.active> a > span{
+color: #4e73df;
+}
+
+.active{
+background-color: #F3FFFF;
+width: 90%;
+border-radius: 5px;
+margin-left: 2px;
+
+}
+
+
+.sidebar{
+  background-color: #fff;
+}
